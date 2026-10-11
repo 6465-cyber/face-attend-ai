@@ -140,8 +140,8 @@ npm run dev
 
 ## 🔑 Default Credentials
 
-- **Username**: `admin`
-- **Password**: `admin123`
+- **Username**: `enter username`
+- **Password**: `enter password`
 
 ---
 
